@@ -5,7 +5,7 @@
 Yi Qu, Senming Zhong, Minglong Xue
 
 
-![Framework](image/kuangjian.png)
+![Framework](框架图.pdf)
 
 ## How to Run the Code?
 * conda activate CTCR
