@@ -2,7 +2,7 @@
 ### [Paper]() | [Code]([[https://github.com/XunpengYi/Diff-Retinex-Plus](https://github.com/qy792832/PGER-LLIE](https://github.com/qy792832/CTCR-Diff))) 
 
 **Color-Texture Collaborative Restoration Diffusion for Low-Light Image Enhancement**
-Minglong Xuea, Yi Qu, Zhenwei He, Palaiahnakote Shivakumarab,
+Minglong Xue, Yi Qu, Zhenwei He, Palaiahnakote Shivakumarab,
 Senming Zhong,∗
 > **Notice:** The complete source code, including the training and evaluation scripts, will be uploaded by **July 25, 2026**. We apologize for the delay, as we have been occupied with some personal matters recently. Thank you for your patience and understanding.
 
