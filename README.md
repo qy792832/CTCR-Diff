@@ -2,7 +2,8 @@
 ### [Paper]() | [Code]([https://github.com/XunpengYi/Diff-Retinex-Plus](https://github.com/qy792832/PGER-LLIE)) 
 
 **Retinex-Consistent and Time-Aware Diffusion for Low-Light Image Enhancement**
-Yi Qu, Senming Zhong, Minglong Xue
+Minglong Xuea, Yi Qu, Zhenwei He, Palaiahnakote Shivakumarab,
+Senming Zhong,∗
 
 
 ![Framework](kuangjia.png)
